@@ -2,18 +2,20 @@
 
 ## INFO
 
-background
-background-attachment
-background-blend-mode
-background-clip
-background-color
-background-image
-background-origin
-background-position
-background-position-x
-background-position-y
-background-repeat
-background-size
+https://developer.mozilla.org/en-US/docs/Web/CSS/background
+
+- background
+- background-attachment
+- background-blend-mode
+- background-clip
+- background-color
+- background-image
+- background-origin
+- background-position
+- background-position-x
+- background-position-y
+- background-repeat
+- background-size
 
 
 ```CSS
