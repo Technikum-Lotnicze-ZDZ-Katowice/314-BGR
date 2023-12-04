@@ -33,7 +33,6 @@ https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fo
 
 ### ---------Stock Img
 https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
-https://www.cgtrader.com/3d-models/stock | https://sketchfab.com/features/free-3d-models | https://www.turbosquid.com/Search/3D-Models/free/stock
 
 ### ---------License
 [MIT](https://choosealicense.com/licenses/mit/)
