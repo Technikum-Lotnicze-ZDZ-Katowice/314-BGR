@@ -2,6 +2,8 @@
 
 voxels https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=drive_link
 
+curves https://youtu.be/lPJVi797Uy0?si=RKOM0bSRnuk0RQ80
+
 ## INFO
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/background
